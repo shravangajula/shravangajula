@@ -14,7 +14,7 @@ Hello, I'm Shravan Kumar Gajula and I'm passionate about transforming data into 
 
 - ETL & ELT Pipelines: Experienced in building robust pipelines using Azure Data Factory, Databricks, Airflow, and Talend.
 - Data Warehousing: Skilled in Snowflake, Redshift, BigQuery, Azure Synapse, and Hive for efficient data storage and retrieval.
-- Data Streaming & Real-Time Processing: Hands-on with Databricks for streaming large-scale data in real time..
+- Data Streaming & Real-Time Processing: Hands-on with Databricks for streaming large-scale data in real time.
 - Data Modeling: Experience in developing dimensional models for reporting and analytics.
 
 #### Analytics & Business Intelligence:
