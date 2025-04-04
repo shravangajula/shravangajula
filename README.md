@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Naman Gupta, a data enthusiast passionate about transforming data into actionable insights and optimized solutions. I have a strong experience in the data space, I specialize in architecting scalable data pipelines, optimizing ETL processes, and building impactful business intelligence solutions to drive data-driven decision-making.
+Hello, I'm Shravan Kumar Gajula, a data enthusiast passionate about transforming data into actionable insights and optimized solutions. I have a strong experience in the data space, I specialize in architecting scalable data pipelines, optimizing ETL processes, and building impactful business intelligence solutions to drive data-driven decision-making.
 
 ### Technical Expertise 💼 
 #### Programming & Scripting:
