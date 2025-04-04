@@ -31,6 +31,6 @@ Hello, I'm Shravan Kumar Gajula and I'm passionate about transforming data into 
 
 #### Soft Skills:
 
-- Communication: Excellent communicator with ability to present complex insights data in easy-to-understand terms to stakeholders.
+- Communication: Skilled communicator, able to simplify complex data insights for stakeholders.
 - Problem-Solving: Strong analytical thinker with capacity to recognize and resolve data-related problems.
 - Teamwork: Good team player with cross-functional team experience working towards project goals.
