@@ -25,7 +25,7 @@ Hello, I'm Shravan Kumar Gajula and I'm passionate about transforming data into 
 
 #### Cloud & DevOps:
 
-- Cloud Platforms: Prevalent usage of Azure, AWS, and GCP as elastic data processing solutions.
+- Cloud Platforms: Prevalent usage of Azure and AWS as elastic data processing solutions.
 - CI/CD & Containerization: Familiar with Docker, Azure DevOps, and Git for versioning and continuous deployment.
 - Agile Methodologies: Employed Scrum & Kanban practices with JIRA and Azure DevOps for project management and delivery.
 
