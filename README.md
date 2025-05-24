@@ -2,7 +2,7 @@
 
 Hello, I'm Shravan Kumar Gajula and I'm passionate about transforming data into actionable business insights and optimizing solutions. I possess a significant experience in data, I specialize in scalable data pipeline design, ETL performance optimization, and creating efficient business intelligence solutions in order to leverage data-driven insights.
 
-### Technical Expertise 💼 
+### Technical Expertise 💼
 #### Programming & Scripting:
 
 - Python: Proficient in automated data analysis and scalable data solution development.
